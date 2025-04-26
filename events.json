@@ -1,0 +1,336 @@
+[
+  {
+    "id": "49067819559",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 972715703,
+      "name": "hencejacki/GUA",
+      "url": "https://api.github.com/repos/hencejacki/GUA"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "Use GitHub API to fetch user activity and display it in the terminal.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-04-25T14:37:08Z"
+  },
+  {
+    "id": "49067819347",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 972715703,
+      "name": "hencejacki/GUA",
+      "url": "https://api.github.com/repos/hencejacki/GUA"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "Use GitHub API to fetch user activity and display it in the terminal.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-04-25T14:37:08Z"
+  },
+  {
+    "id": "48854170365",
+    "type": "PushEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 964671777,
+      "name": "hencejacki/TTC",
+      "url": "https://api.github.com/repos/hencejacki/TTC"
+    },
+    "payload": {
+      "repository_id": 964671777,
+      "push_id": 23844887915,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "8dba9769c4c57c3c2996a4805b6c864898155d4c",
+      "before": "55591d4a9160faa38d89c90688752d94920d0aa5",
+      "commits": [
+        {
+          "sha": "8dba9769c4c57c3c2996a4805b6c864898155d4c",
+          "author": {
+            "email": "hencejacki@gmail.com",
+            "name": "hcjk"
+          },
+          "message": "mode:README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/hencejacki/TTC/commits/8dba9769c4c57c3c2996a4805b6c864898155d4c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-04-19T19:29:06Z"
+  },
+  {
+    "id": "48854136923",
+    "type": "PushEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 964671777,
+      "name": "hencejacki/TTC",
+      "url": "https://api.github.com/repos/hencejacki/TTC"
+    },
+    "payload": {
+      "repository_id": 964671777,
+      "push_id": 23844864954,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "55591d4a9160faa38d89c90688752d94920d0aa5",
+      "before": "4a4426f2b6f1900a437c81165e3f7b3cfd266c2d",
+      "commits": [
+        {
+          "sha": "55591d4a9160faa38d89c90688752d94920d0aa5",
+          "author": {
+            "email": "hencejacki@gmail.com",
+            "name": "hcjk"
+          },
+          "message": "mod:gitignore&README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/hencejacki/TTC/commits/55591d4a9160faa38d89c90688752d94920d0aa5"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-04-19T19:25:29Z"
+  },
+  {
+    "id": "48854096896",
+    "type": "PushEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 964671777,
+      "name": "hencejacki/TTC",
+      "url": "https://api.github.com/repos/hencejacki/TTC"
+    },
+    "payload": {
+      "repository_id": 964671777,
+      "push_id": 23844837183,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "4a4426f2b6f1900a437c81165e3f7b3cfd266c2d",
+      "before": "ff0713c91ee9ace0c4022739e36426c54182e0f2",
+      "commits": [
+        {
+          "sha": "4a4426f2b6f1900a437c81165e3f7b3cfd266c2d",
+          "author": {
+            "email": "hencejacki@gmail.com",
+            "name": "hcjk"
+          },
+          "message": "mod:README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/hencejacki/TTC/commits/4a4426f2b6f1900a437c81165e3f7b3cfd266c2d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-04-19T19:21:19Z"
+  },
+  {
+    "id": "48854040966",
+    "type": "PushEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 964671777,
+      "name": "hencejacki/TTC",
+      "url": "https://api.github.com/repos/hencejacki/TTC"
+    },
+    "payload": {
+      "repository_id": 964671777,
+      "push_id": 23844797723,
+      "size": 4,
+      "distinct_size": 4,
+      "ref": "refs/heads/main",
+      "head": "ff0713c91ee9ace0c4022739e36426c54182e0f2",
+      "before": "525117f71e7844d630e1c07de82953b862e501e1",
+      "commits": [
+        {
+          "sha": "6d2168b4208799208569924f36885e561794d24e",
+          "author": {
+            "email": "hencejacki@gmail.com",
+            "name": "hcjk"
+          },
+          "message": "add:User input handle",
+          "distinct": true,
+          "url": "https://api.github.com/repos/hencejacki/TTC/commits/6d2168b4208799208569924f36885e561794d24e"
+        },
+        {
+          "sha": "3d6057585d8b3002a432635aca3ecfb57126e49d",
+          "author": {
+            "email": "hencejacki@gmail.com",
+            "name": "hcjk"
+          },
+          "message": "add:task handler;json parse;test dir",
+          "distinct": true,
+          "url": "https://api.github.com/repos/hencejacki/TTC/commits/3d6057585d8b3002a432635aca3ecfb57126e49d"
+        },
+        {
+          "sha": "4fc6d9711021808958c56082323e44db0236c6c3",
+          "author": {
+            "email": "hencejacki@gmail.com",
+            "name": "hcjk"
+          },
+          "message": "add:perfect json parse",
+          "distinct": true,
+          "url": "https://api.github.com/repos/hencejacki/TTC/commits/4fc6d9711021808958c56082323e44db0236c6c3"
+        },
+        {
+          "sha": "ff0713c91ee9ace0c4022739e36426c54182e0f2",
+          "author": {
+            "email": "hencejacki@gmail.com",
+            "name": "hcjk"
+          },
+          "message": "add:task serialize to file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/hencejacki/TTC/commits/ff0713c91ee9ace0c4022739e36426c54182e0f2"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-04-19T19:15:33Z"
+  },
+  {
+    "id": "48592519247",
+    "type": "PushEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 964671777,
+      "name": "hencejacki/TTC",
+      "url": "https://api.github.com/repos/hencejacki/TTC"
+    },
+    "payload": {
+      "repository_id": 964671777,
+      "push_id": 23705466677,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "525117f71e7844d630e1c07de82953b862e501e1",
+      "before": "3e0f1d3bb6d7038b6443dac68339c0f22f60b847",
+      "commits": [
+        {
+          "sha": "525117f71e7844d630e1c07de82953b862e501e1",
+          "author": {
+            "email": "hencejacki@gmail.com",
+            "name": "hcjk"
+          },
+          "message": "first commit",
+          "distinct": true,
+          "url": "https://api.github.com/repos/hencejacki/TTC/commits/525117f71e7844d630e1c07de82953b862e501e1"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-04-11T15:44:07Z"
+  },
+  {
+    "id": "48592323767",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 964671777,
+      "name": "hencejacki/TTC",
+      "url": "https://api.github.com/repos/hencejacki/TTC"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "Task tracker cli project in roadmap.sh",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-04-11T15:38:57Z"
+  },
+  {
+    "id": "48592323910",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 60866345,
+      "login": "hencejacki",
+      "display_login": "hencejacki",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hencejacki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60866345?"
+    },
+    "repo": {
+      "id": 964671777,
+      "name": "hencejacki/TTC",
+      "url": "https://api.github.com/repos/hencejacki/TTC"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "Task tracker cli project in roadmap.sh",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-04-11T15:38:58Z"
+  }
+]
