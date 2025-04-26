@@ -1,6 +1,6 @@
 # GUA
 
-Use GitHub API to fetch user activity and display it in the terminal.
+Use GitHub API to fetch user [activity](https://roadmap.sh/projects/github-user-activity). and display it in the terminal.
 
 ## Usage
 
