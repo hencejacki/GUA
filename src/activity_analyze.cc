@@ -102,6 +102,7 @@ void ActivityAnalyze::parseEvents(const HJson *event_array)
 void ActivityAnalyze::analyzeActivities()
 {
     printf("Analyze result: \n");
+    printf("- Total events: %ld.\n", activity_.events.size());
     for (auto iter = activity_.events.begin()
         ; iter != activity_.events.end()
         ; ++iter) 
